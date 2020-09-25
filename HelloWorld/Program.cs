@@ -14,7 +14,7 @@ namespace HelloWorld
     {
       Application.EnableVisualStyles();
       Application.SetCompatibleTextRenderingDefault(false);
-      MessageBox.Show("Hello, World!");
+      MessageBox.Show("Hello, World!"); // it's a message for everyone
     }
   }
 }
